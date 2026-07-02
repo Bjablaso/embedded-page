@@ -1,0 +1,9 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');*/
+/*@import './globals.css';*/
+/*@import './tailwind.css';*/
+/*@import "tw-animate-css";*/
+/*@import './theme.css';*/
+/*@source "..!**!*.{js,ts,jsx,tsx}";*/
+@import "tailwindcss";
+@source "../**/*.{js,ts,jsx,tsx}";
+@import "tw-animate-css";
